@@ -1,0 +1,9 @@
+﻿cl : Ligne de commande warning D9035: l'option 'clr:pure' est déconseillée et sera supprimée dans une version ultérieure
+  IHM_MC43.cpp
+d:\dd\ihm\ihm_mc43\ihm_mc43\Form1.h(242): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+d:\dd\ihm\ihm_mc43\ihm_mc43\Form1.h(243): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+d:\dd\ihm\ihm_mc43\ihm_mc43\Form1.h(253): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+d:\dd\ihm\ihm_mc43\ihm_mc43\Form1.h(254): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+d:\dd\ihm\ihm_mc43\ihm_mc43\Form1.h(265): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+d:\dd\ihm\ihm_mc43\ihm_mc43\Form1.h(266): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  IHM_MC43.vcxproj -> D:\DD\IHM\IHM_MC43\Debug\IHM_MC43.exe
